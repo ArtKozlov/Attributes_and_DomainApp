@@ -1,0 +1,11 @@
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\bin\Debug\TestApp.exe
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\bin\Debug\Attributes.dll
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\bin\Debug\Attributes.pdb
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\obj\Debug\TestApp.exe
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\TestApp\obj\Debug\TestApp.pdb
+D:\Epam\.Net Core\Day3\TestApp\bin\Debug\TestApp.exe.config
+D:\Epam\.Net Core\Day3\TestApp\obj\Debug\TestApp.exe
+D:\Epam\.Net Core\Day3\TestApp\obj\Debug\TestApp.pdb

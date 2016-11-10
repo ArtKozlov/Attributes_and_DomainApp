@@ -1,0 +1,5 @@
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\Attributes\bin\Debug\Attributes.dll
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\Attributes\obj\Debug\Attributes.dll
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\Day3\Attributes\obj\Debug\Attributes.pdb
